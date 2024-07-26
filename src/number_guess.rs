@@ -34,5 +34,4 @@ pub fn number_guess(){
             }
         }
     }
-
 }
