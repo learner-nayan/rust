@@ -1,0 +1,12 @@
+/Users/nayan/RustroverProjects/new/target/debug/deps/libcolored-512170abc04350aa.rmeta: /Users/nayan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.1.0/src/lib.rs /Users/nayan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.1.0/src/color.rs /Users/nayan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.1.0/src/control.rs /Users/nayan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.1.0/src/error.rs /Users/nayan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.1.0/src/style.rs /Users/nayan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.1.0/src/customcolors.rs
+
+/Users/nayan/RustroverProjects/new/target/debug/deps/libcolored-512170abc04350aa.rlib: /Users/nayan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.1.0/src/lib.rs /Users/nayan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.1.0/src/color.rs /Users/nayan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.1.0/src/control.rs /Users/nayan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.1.0/src/error.rs /Users/nayan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.1.0/src/style.rs /Users/nayan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.1.0/src/customcolors.rs
+
+/Users/nayan/RustroverProjects/new/target/debug/deps/colored-512170abc04350aa.d: /Users/nayan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.1.0/src/lib.rs /Users/nayan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.1.0/src/color.rs /Users/nayan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.1.0/src/control.rs /Users/nayan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.1.0/src/error.rs /Users/nayan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.1.0/src/style.rs /Users/nayan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.1.0/src/customcolors.rs
+
+/Users/nayan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.1.0/src/lib.rs:
+/Users/nayan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.1.0/src/color.rs:
+/Users/nayan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.1.0/src/control.rs:
+/Users/nayan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.1.0/src/error.rs:
+/Users/nayan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.1.0/src/style.rs:
+/Users/nayan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.1.0/src/customcolors.rs:
