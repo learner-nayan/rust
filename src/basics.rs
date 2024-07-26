@@ -54,6 +54,7 @@ pub fn basics(){
     }
 }
 
+//--------------------------FUNCTION--------------------------
 fn add(a:i32, b:i32) ->i32{
     a+b   // same as doing return a+b;
 }
