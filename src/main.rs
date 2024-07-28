@@ -4,6 +4,7 @@ mod number_guess;
 mod basics;
 mod ownership;
 mod structure;
+mod structure_methods;
 
 fn main() {
     // loops::loops();
@@ -11,7 +12,9 @@ fn main() {
     // number_guess::number_guess();
     // basics::basics();
     // ownership::ownership();
-    structure::structure();
+    // structure::structure();
+    structure_methods::structure_methods();
 }
+
 
 
