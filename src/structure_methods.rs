@@ -13,6 +13,16 @@ impl Rectangle {
     }
 }
 
+
+impl Rectangle{
+    fn square(size:u32) -> Rectangle{
+        Rectangle{
+            width: size,
+            height: size
+        }
+    }
+}
+
 pub fn structure_methods(){
     let rect = Rectangle{
         width: 5,
@@ -23,6 +33,8 @@ pub fn structure_methods(){
         width: 7,
         height: 13,
     };
+
+    let rect3 = Rectangle::square(5);
 
     println!("{}",rect.area());
 
