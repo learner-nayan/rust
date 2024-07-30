@@ -5,6 +5,7 @@ mod basics;
 mod ownership;
 mod structure;
 mod structure_methods;
+mod enums;
 
 fn main() {
     // loops::loops();
@@ -13,8 +14,10 @@ fn main() {
     // basics::basics();
     // ownership::ownership();
     // structure::structure();
-    structure_methods::structure_methods();
+    // structure_methods::structure_methods();
+    enums::enums();
 }
+
 
 
 
